@@ -8,7 +8,7 @@ load_dotenv()
 
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyDZN3d_RoYmNK6i3dzhGOR6NGtY_yA6WIw")  
+genai.configure(api_key="api_key")  
 model = genai.GenerativeModel("gemini-pro")
 
 # Connect to the SQLite database
