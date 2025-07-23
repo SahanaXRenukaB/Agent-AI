@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was done as part of my GenAI Internship. It uses a Gemini LLM (Google) to understand questions in English and convert them into SQL. The SQL is then run on a local database created from our e-commerce product data.
+AI Agent for E-commerce Data. It uses a Gemini LLM (Google) to understand questions in English and convert them into SQL. The SQL is then run on a local database created from our e-commerce product data.
 
 ## Features
 
